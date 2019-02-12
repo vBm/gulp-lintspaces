@@ -25,14 +25,14 @@
   "author": "Christopher Knötschke <cknoetschke@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "ansi-colors": "^1.1.0",
     "app-root-path": "^1.0.0",
     "colors": "^1.0.3",
     "event-stream": "^3.3.4",
-    "ansi-colors": "^1.1.0",
-    "plugin-error": "^1.0.1",
-    "lintspaces": "^0.5.0",
+    "lintspaces": "^0.6.3",
     "log-symbols": "^1.0.2",
-    "path": "^0.11.14"
+    "path": "^0.11.14",
+    "plugin-error": "^1.0.1"
   },
   "devDependencies": {
     "should": "^3.2.0",
